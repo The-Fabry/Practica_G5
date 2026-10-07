@@ -9,5 +9,7 @@ package javaapplication7;
  * @author User
  */
 public class Prectica {
-    
+    public void Nando(){
+        //hola 
+    }
 }
