@@ -16,4 +16,8 @@ public class Prectica {
     public void Andres(){
         //Andres Toasa
     }
+    
+    public void Mateo(){
+        //Mateo Morales
+    }
 }
