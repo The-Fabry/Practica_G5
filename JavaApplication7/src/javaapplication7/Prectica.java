@@ -12,4 +12,8 @@ public class Prectica {
     public void Nando(){
         //hola 
     }
+    
+    public void Andres(){
+        //Andres Toasa
+    }
 }
